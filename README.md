@@ -10,4 +10,4 @@ Tenho uma grande paixão por tecnologia, buscando sempre aprender coisas novas e
 
 - Linguaguens 👩‍💻  - Python, Java, JS, C#
 - Atualmente Estudando 🖍 - ML & IA em Python, Java, HTML, CSS, JS, React e alguns outros frameworks. 
-- [Site](https://ramon.plus/) 🌐 - É aqui que eu testo meus aprendizados em front-end. 
+- [ramon.plus](https://ramon.plus/) 🌐 - Meu site, desenvolvido por mim com muito carinho. 
