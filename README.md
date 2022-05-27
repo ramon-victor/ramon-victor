@@ -14,7 +14,7 @@ Tenho uma grande paixão por tecnologia, buscando sempre aprender coisas novas e
   ##
   
   <a href="https://github.com/ramonvc">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonvc&count_private=true&layout=compact&langs_count=7&count_private=true&theme=dracula"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonvc&count_private=true&layout=compact&langs_count=7&count_private=true&theme=dark"/>
 </div>
 
   ###
