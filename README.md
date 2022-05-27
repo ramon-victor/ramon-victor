@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Tenho uma grande paixão por tecnologia, buscando sempre aprender coisas novas e se atualizando com tudo oque vem surgindo no mercado. Estou cursando Engenharia de Software pela [Univille](https://www.univille.edu.br) e faço parte do programa [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/pt-BR/profile/79198), onde busco aprender e ensinar. 
+Tenho uma grande paixão por tecnologia, buscando sempre aprender coisas novas e se atualizando com tudo oque vem surgindo na comunidade de desenvolvimento. Estou cursando Engenharia de Software pela [Univille](https://www.univille.edu.br) e faço parte do programa [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/pt-BR/profile/79198), onde busco aprender e ensinar. 
 
 - Linguagens 👩‍💻  - Python, Java, JS.
 - Atualmente Estudando 🖍 - ML & IA em Python, Java, HTML, CSS, JS, React e alguns outros frameworks. 
