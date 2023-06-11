@@ -26,5 +26,5 @@ Como entusiasta da tecnologia, sempre busco aprender coisas novas e me atualizar
 </div>
     
  ##
-🔗 Confira meu site pessoal: [ramxn.dev](https://www.ramxn.dev/)  
+🔗 Confira meu site pessoal: [ramxn.dev](https://ramxn.dev/)  
 
