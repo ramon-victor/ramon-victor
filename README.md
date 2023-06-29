@@ -7,7 +7,7 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
   <img src="https://github.com/ramonvc/ramonvc/assets/13617054/0b61e662-37fd-4529-a44c-f0f59644aaff" height="36px">
   <img src="https://github.com/ramonvc/ramonvc/assets/13617054/9fbdc702-bb00-4018-b678-e71cbfe090a0" height="32px">
   <br>
-  <h4>Python, Java, JavaScript, Angular, C#, .NET, and SQL.</h4>
+  <h4>Python, Java, JavaScript, Angular, C#, .NET and SQL.</h4>
 </div>
 
 <br>
