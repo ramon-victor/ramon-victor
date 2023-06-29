@@ -25,4 +25,6 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
     
 <a href="https://github.com/ramonvc">  
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonvc&count_private=true&layout=compact&langs_count=7&count_private=true&theme=transparent"/>  
+  <img height="180rem" src="https://streak-stats.demolab.com/?user=ramonvc&theme=transparent"/>
 </a>  
+
