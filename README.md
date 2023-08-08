@@ -7,7 +7,7 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
   <img src="https://github.com/ramonvc/ramonvc/assets/13617054/9fbdc702-bb00-4018-b678-e71cbfe090a0" height="32px">
   <br><br>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,angular,cs,mysql"/>
-  <p>Python, Java, JavaScript, Angular, C#, and MySQL.</p>
+  <p>Python, Java, JavaScript, Angular, C# and MySQL.</p>
 </div>
 
 <br>
@@ -18,7 +18,7 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
   <img src="https://github.com/ramonvc/ramonvc/assets/13617054/c3ff1c57-f1d4-42ae-b674-27f3cd6ac72c" height="32px">
   <br><br>
   <img src="https://skillicons.dev/icons?i=react,typescript,electron,openshift"/>
-  <p>React.js, Typescript, Electron and OpenShift.</p>
+  <p>React.js, TypeScript, Electron and OpenShift.</p>
 </div>
 
 ##  
