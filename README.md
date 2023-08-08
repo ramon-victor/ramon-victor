@@ -17,8 +17,8 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
   <img src="https://github.com/ramonvc/ramonvc/assets/13617054/b54b4203-68bf-4df1-ab2c-db12ad4e5bd9" height="36px">
   <img src="https://github.com/ramonvc/ramonvc/assets/13617054/c3ff1c57-f1d4-42ae-b674-27f3cd6ac72c" height="32px">
   <br><br>
-  <img src="https://skillicons.dev/icons?i=react,electron,openshift"/>
-  <p>React.js, Electron and OpenShift.</p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,electron,openshift"/>
+  <p>React.js, Typescript, Electron and OpenShift.</p>
 </div>
 
 ##  
