@@ -3,13 +3,13 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
 
 ##
 <div>
-  <h2>Skills</h2>
+  <h3>Experienced in...</h3>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,angular,cs,mysql" 
-       title="Python, Java, JavaScript, Angular, C# and MySQL."/>
+       title="Python, Java, JavaScript, Angular, C# and SQL."/>
 
 <br>
 <div>
-  <h2>Learning</h2>
+  <h3>Looking forward to learn...</h3>
   <img src="https://skillicons.dev/icons?i=react,typescript,electron,openshift"
        title="React.js, TypeScript, Electron and OpenShift."/>
 </div>
