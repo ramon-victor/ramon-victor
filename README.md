@@ -10,8 +10,8 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
 <br>
 <div>
   <h3>Looking forward to learn...</h3>
-  <img src="https://skillicons.dev/icons?i=react,typescript,electron,openshift"
-       title="React.js, TypeScript, Electron and OpenShift."/>
+  <img src="https://skillicons.dev/icons?i=typescript,openshift"
+       title="TypeScript and OpenShift."/>
 </div>
 
 ##  
@@ -19,7 +19,7 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
     
 <a href="https://github.com/ramonvc">  
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonvc&count_private=true&layout=compact&langs_count=7&count_private=true&theme=transparent"/>  
-  <img height="180rem" src="https://streak-stats.demolab.com/?user=ramonvc&theme=transparent"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=ramonvc&show_icons=true&theme=transparent"/>
 </a>  
 
 ##
