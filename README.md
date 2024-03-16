@@ -19,8 +19,8 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
 ### Statistics  
     
 <div>  
-  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramonvc&theme=transparent"/>
-  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramonvc&theme=transparent"/>
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramonvc&theme=github_dark"/>
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramonvc&theme=github_dark"/>
 </div>  
 
 ##
