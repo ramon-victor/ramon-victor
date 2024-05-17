@@ -9,11 +9,6 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
        title="Python, Java, JavaScript, Angular, C# and SQL."/>
 
 <br>
-<div>
-  <h3>Looking forward to learn...</h3>
-  <img height="36rem" src="https://skillicons.dev/icons?i=typescript,openshift"
-       title="TypeScript and OpenShift."/>
-</div>
 
 ##  
 ### Statistics  
