@@ -1,5 +1,5 @@
 ### About me  
-As a technology enthusiast, I'm always seeking to learn new things and keep up with the latest trends in the development community. I have a degree in Software Engineering and _gambiarra_.
+Passionate about technology, I'm on a perpetual quest for knowledge, always striving to stay ahead of the curve in the ever-evolving world of development. I also have a degree in Software Engineering and a knack for _gambiarra_.
 
 > **What is "gambiarra"?** 🇧🇷
 > 
