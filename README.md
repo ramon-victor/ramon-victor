@@ -7,8 +7,8 @@ Passionate about technology, I'm on a perpetual quest for knowledge, always stri
 ##  
 <div>
   <h3>Experienced in...</h3>
-  <img height="36rem" src="https://skillicons.dev/icons?i=python,java,javascript,angular,cs,mysql" 
-       title="Python, Java, JavaScript, Angular, C# and SQL."/>
+  <img height="36rem" src="https://skillicons.dev/icons?i=python,java,javascript,typescript,angular,vue,cs,mysql" 
+       title="Python, Java, JavaScript, Typescript, Angular, Vue, C# and SQL."/>
 </div>
 
 <br>
