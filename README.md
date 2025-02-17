@@ -1,5 +1,5 @@
 ### About me  
-Developer by Day, Tech Enthusiast Always
+<sup>> Developer by day, tech enthusiast always </sup>
 <div>
   <h3>Experienced in...</h3>
   <img height="36rem" src="https://skillicons.dev/icons?i=python,java,javascript,typescript,angular,vue,cs,mysql" 
