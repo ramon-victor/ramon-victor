@@ -2,8 +2,8 @@
 <sup>> Developer by day, tech enthusiast always </sup>
 <div>
   <h3>Experienced in...</h3>
-  <img height="36rem" src="https://skillicons.dev/icons?i=python,java,javascript,typescript,angular,vue,cs,mysql" 
-       title="Python, Java, JavaScript, Typescript, Angular, Vue, C# and SQL."/>
+  <img height="36rem" src="https://skillicons.dev/icons?i=python,cs,javascript,typescript,angular,vue,mysql" 
+       title="Python, C#, JavaScript, Typescript, Angular, Vue and SQL."/>
 </div>
 
 <br>
